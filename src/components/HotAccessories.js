@@ -2,8 +2,9 @@ import React from 'react'
 import HotItemCard from "./HotItemCard.js"
 import "../styles/HotAccessories.css"
 
-
 const HotAccessories = ({music,musicCover,smartDevice,smartDeviceCover,home,homeCover,lifeStyle,lifeStyleCover,mobileAccessories,mobileAccessoriesCover}) => {
+
+    
     return (
         <div  className="HotAccessories">
 

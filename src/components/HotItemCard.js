@@ -2,7 +2,9 @@ import React from 'react'
 import "../styles/HotItemCard.css"
 
 
+
 const HotItemCard = ({image,index,name,price}) => {
+
     
     return (
         <div className="HotItemCard">
